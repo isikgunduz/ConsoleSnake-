@@ -1,0 +1,6 @@
+﻿  simple_snake_game.cpp
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\simple_snake_game\simple_snake_game\simple_snake_game.cpp(14,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\simple_snake_game\simple_snake_game\simple_snake_game.cpp(14,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  simple_snake_game.vcxproj -> C:\Users\EXCALIBUR\OneDrive\Masaüstü\simple_snake_game\simple_snake_game\x64\Debug\simple_snake_game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
